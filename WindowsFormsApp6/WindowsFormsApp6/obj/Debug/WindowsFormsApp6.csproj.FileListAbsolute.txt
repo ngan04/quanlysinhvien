@@ -1,0 +1,12 @@
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe.config
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.exe
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\bin\Debug\WindowsFormsApp6.pdb
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.AssemblyReference.cache
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form1.resources
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Properties.Resources.resources
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.GenerateResource.cache
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.exe
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.pdb
+C:\Users\84782\source\repos\WindowsFormsApp6\WindowsFormsApp6\obj\Debug\WindowsFormsApp6.Form2.resources
